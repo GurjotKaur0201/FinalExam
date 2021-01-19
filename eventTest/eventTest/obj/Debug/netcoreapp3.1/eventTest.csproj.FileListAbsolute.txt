@@ -1,0 +1,12 @@
+C:\Users\grewa\source\repos\eventTest\eventTest\bin\Debug\netcoreapp3.1\eventTest.exe
+C:\Users\grewa\source\repos\eventTest\eventTest\bin\Debug\netcoreapp3.1\eventTest.deps.json
+C:\Users\grewa\source\repos\eventTest\eventTest\bin\Debug\netcoreapp3.1\eventTest.runtimeconfig.json
+C:\Users\grewa\source\repos\eventTest\eventTest\bin\Debug\netcoreapp3.1\eventTest.runtimeconfig.dev.json
+C:\Users\grewa\source\repos\eventTest\eventTest\bin\Debug\netcoreapp3.1\eventTest.dll
+C:\Users\grewa\source\repos\eventTest\eventTest\bin\Debug\netcoreapp3.1\eventTest.pdb
+C:\Users\grewa\source\repos\eventTest\eventTest\obj\Debug\netcoreapp3.1\eventTest.AssemblyInfoInputs.cache
+C:\Users\grewa\source\repos\eventTest\eventTest\obj\Debug\netcoreapp3.1\eventTest.AssemblyInfo.cs
+C:\Users\grewa\source\repos\eventTest\eventTest\obj\Debug\netcoreapp3.1\eventTest.csproj.CoreCompileInputs.cache
+C:\Users\grewa\source\repos\eventTest\eventTest\obj\Debug\netcoreapp3.1\eventTest.dll
+C:\Users\grewa\source\repos\eventTest\eventTest\obj\Debug\netcoreapp3.1\eventTest.pdb
+C:\Users\grewa\source\repos\eventTest\eventTest\obj\Debug\netcoreapp3.1\eventTest.genruntimeconfig.cache
